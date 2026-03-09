@@ -1,4 +1,4 @@
-# 🏡 California Real Estate Price Predictor
+# 🏡 California Real Estate Price Predictor using Machine Learning (Multiple Linear Regression)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
